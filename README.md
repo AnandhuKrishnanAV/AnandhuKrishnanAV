@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **anandhukrishnanav3@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anandhu-krishnan-av](https://www.linkedin.com/in/anandhu-krishnan-av)
-
 - ⚡ Fun fact **I think am SuperMan**
 
 <h3 align="left">Connect with me:</h3>
