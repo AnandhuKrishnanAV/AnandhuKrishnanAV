@@ -57,6 +57,10 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="100%">
+      
 ### 🗄️ Database & Cloud
       
 **MySQL** ![85%](https://progress-bar.dev/85/?width=200&color=4479A1)
@@ -64,6 +68,10 @@
 **PostgreSQL** ![80%](https://progress-bar.dev/80/?width=200&color=336791)
       
 **AWS** ![70%](https://progress-bar.dev/70/?width=200&color=FF9900)
+      
+    </td>
+  </tr>
+</table>
 
 ---
 
